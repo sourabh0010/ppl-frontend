@@ -1,0 +1,13 @@
+.h1{
+    width: 100%;
+    height: auto;
+    float: left;
+    padding-bottom: 10px;
+    font-family: Helvetica;
+    font-size: 30px;
+    color: #f47b13;
+    text-shadow: 1px 1px 1px #fff;
+    float: left;
+    background: url(../images/h1_lin.png) bottom left repeat-x;
+}
+
